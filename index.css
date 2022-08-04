@@ -156,6 +156,7 @@ h1::after{
 .nav-link:hover{
     background-color:rgb(79, 3, 102);
     padding: 10px;
+    border-radius: 10px;
 } 
 
 .button:hover{
@@ -179,4 +180,8 @@ h1::after{
     color: rgb(62, 62, 185);
     background-color: white; 
     border: 3px solid blue;
+}
+
+.promo:hover {
+    background-color: chocolate;
 }
